@@ -36,4 +36,4 @@ after building the first prototype like mentioned above we can start upgrading t
 - then we need to attach the Hc05 Bluetooth module to the arduino nano
 - now we need to develop a simple app lusing MIT app inventor which gives input to the arduino module to which direction it shout move like left, right, forward, backward, a complete turn and other things if you want like u can even make it dance by using appropriate code.
 - now we need to update the code of the arduino nano using Arduino Ide so that it responds to the appropriate commands given through the smartphone apk.
-- now we need to connect the arduino nano to the  TP4056 1-cell Li-Ion Charging module which in turn is connected to the two Li-Po 18650 3.7v 2600mAh batteries connected in series and proably attach a switch in between to turn on while testing 
+- now we need to connect the arduino nano to the  TP4056 1-cell Li-Ion Charging module which in turn is connected to the two Li-Po 18650 3.7v 2600mAh batteries connected in series and probably attach a switch in between to turn on while testing 
